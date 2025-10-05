@@ -1,0 +1,258 @@
+{
+  "features": [
+    {
+      "name": "Gender_ambiguous",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Gender_female",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Gender_male",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Blood test result_abnormal",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Blood test result_inconclusive",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Blood test result_normal",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Blood test result_slightly abnormal",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Patient Age",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Blood cell count (mcL)",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Mother's age",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Father's age",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Test 1",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Test 2",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Test 3",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Test 4",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Test 5",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "No. of previous abortion",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "White Blood cell count (thousand per microliter)",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Symptom 1",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Symptom 2",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Symptom 3",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Symptom 4",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Symptom 5",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Parental Age Diff",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Symptom Score",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Genes in mother's side",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Inherited from father",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Maternal gene",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Paternal gene",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Status",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Respiratory Rate (breaths/min)",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Heart Rate (rates/min",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Follow-up",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Birth asphyxia",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Autopsy shows birth defect (if applicable)",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Folic acid details (peri-conceptional)",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "H/O serious maternal illness",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "H/O radiation exposure (x-ray)",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "H/O substance abuse",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Assisted conception IVF/ART",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "History of anomalies in previous pregnancies",
+      "dtype": "float64",
+      "allow_null": false
+    },
+    {
+      "name": "Birth defects",
+      "dtype": "float64",
+      "allow_null": false
+    }
+  ],
+  "required": [
+    "Gender_ambiguous",
+    "Gender_female",
+    "Gender_male",
+    "Blood test result_abnormal",
+    "Blood test result_inconclusive",
+    "Blood test result_normal",
+    "Blood test result_slightly abnormal",
+    "Patient Age",
+    "Blood cell count (mcL)",
+    "Mother's age",
+    "Father's age",
+    "Test 1",
+    "Test 2",
+    "Test 3",
+    "Test 4",
+    "Test 5",
+    "No. of previous abortion",
+    "White Blood cell count (thousand per microliter)",
+    "Symptom 1",
+    "Symptom 2",
+    "Symptom 3",
+    "Symptom 4",
+    "Symptom 5",
+    "Parental Age Diff",
+    "Symptom Score",
+    "Genes in mother's side",
+    "Inherited from father",
+    "Maternal gene",
+    "Paternal gene",
+    "Status",
+    "Respiratory Rate (breaths/min)",
+    "Heart Rate (rates/min",
+    "Follow-up",
+    "Birth asphyxia",
+    "Autopsy shows birth defect (if applicable)",
+    "Folic acid details (peri-conceptional)",
+    "H/O serious maternal illness",
+    "H/O radiation exposure (x-ray)",
+    "H/O substance abuse",
+    "Assisted conception IVF/ART",
+    "History of anomalies in previous pregnancies",
+    "Birth defects"
+  ]
+}

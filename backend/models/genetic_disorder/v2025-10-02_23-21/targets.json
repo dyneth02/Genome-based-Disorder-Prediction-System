@@ -1,0 +1,21 @@
+{
+  "targets": ["Genetic Disorder","Disorder Subclass"],
+  "classes": {
+    "Genetic Disorder": [
+      "Mitochondrial genetic inheritance disorders",
+      "Multifactorial genetic inheritance disorders",
+      "Single-gene inheritance diseases"
+    ],
+    "Disorder Subclass": [
+      "Cancer",
+      "Cystic fibrosis",
+      "Diabetes",
+      "Down syndrome",
+      "Huntington's disease",
+      "Klinefelter syndrome",
+      "Leber's hereditary optic neuropathy",
+      "Leigh syndrome",
+      "Turner syndrome"
+    ]
+  }
+}

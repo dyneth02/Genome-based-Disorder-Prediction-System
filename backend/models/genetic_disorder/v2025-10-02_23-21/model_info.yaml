@@ -1,0 +1,6 @@
+
+name: genetic_disorder_rf
+version: v2025-10-02_23-21
+trained_at: 2025-10-02 23:21:47
+framework: sklearn
+notes: "RF balanced; tuned on Genetic Disorder; MultiOutputClassifier."
