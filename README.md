@@ -12,6 +12,14 @@ A comprehensive machine learning system for predicting genetic disorders and the
 - **Web Application**: Full-stack deployment with FastAPI backend and React frontend
 - **Model Interpretability**: Feature importance analysis and probability outputs
 
+  ![ui1](https://github.com/dyneth02/Genome-based-Disorder-Prediction-System/blob/main/screenshots/Screenshot%202025-12-30%20210457.png)
+  ![ui2](https://github.com/dyneth02/Genome-based-Disorder-Prediction-System/blob/main/screenshots/Screenshot%202025-12-30%20210513.png)
+  ![ui3](https://github.com/dyneth02/Genome-based-Disorder-Prediction-System/blob/main/screenshots/Screenshot%202025-12-30%20210530.png)
+  ![ui4](https://github.com/dyneth02/Genome-based-Disorder-Prediction-System/blob/main/screenshots/Screenshot%202025-12-30%20210630.png)
+  ![ui5](https://github.com/dyneth02/Genome-based-Disorder-Prediction-System/blob/main/screenshots/Screenshot%202025-12-30%20210544.png)
+  ![ui6](https://github.com/dyneth02/Genome-based-Disorder-Prediction-System/blob/main/screenshots/Screenshot%202025-12-30%20210600.png)
+  ![ui6](https://github.com/dyneth02/Genome-based-Disorder-Prediction-System/blob/main/screenshots/Screenshot%202025-12-30%20210617.png)
+
 ## 📊 Model Architecture
 
 ### Parent Model (Genetic Disorder Classification)
