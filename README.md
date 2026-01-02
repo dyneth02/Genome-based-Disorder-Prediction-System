@@ -1,4 +1,4 @@
-# Genetic Disorder Prediction System
+# GeneReveal - Genetic Disorder Prediction System
 
 ## 🧬 Overview
 A comprehensive machine learning system for predicting genetic disorders and their specific subclasses using advanced ensemble methods and hierarchical classification. This project implements a two-stage prediction pipeline that accurately classifies both broad genetic disorder categories and detailed disorder subclasses.
